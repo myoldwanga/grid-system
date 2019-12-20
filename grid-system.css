@@ -211,3 +211,9 @@
     width: 8.33333333%;
   }
 }
+
+
+.container .box{
+  background-color:pink;
+  border:1px solid;
+}
